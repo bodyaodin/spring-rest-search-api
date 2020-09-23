@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea
+*.iml
+/.mvn/
+target/
+HELP.md
+/mvnw
+/mvnw.cmd
+
+### Project ###
+/src/main/resources/apiKeys.properties
